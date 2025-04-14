@@ -272,11 +272,15 @@ select {
   }
   body {
     padding: 3rem;
+    overflow-y: scroll;
   }
 
   .container {
     width: 300px;
-      height: 75vh;
+      height: 70vh;
+    padding: 1.5rem;
   }
+
+
 
 }
